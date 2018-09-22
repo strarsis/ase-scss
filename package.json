@@ -1,0 +1,14 @@
+{
+  "name": "ase-scss",
+  "version": "1.0.0",
+  "description": "Exports Adobe Swatch Exchange (*.ASE) file to SASS variables.",
+  "main": "index.js",
+  "repository": "https://github.com/strarsis/ase-scss",
+  "author": "strarsis <strarsis@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ase-util": "^1.0.1",
+    "bluebird": "^3.5.2",
+    "color": "^3.0.0"
+  }
+}
