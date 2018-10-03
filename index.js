@@ -38,7 +38,7 @@ fs.readFileAsync('./swatches.ase')
         var strName = sanitizeCssVariableName(swatch.name),
             strRgb  = swatch.color.string(),
 
-            strVariable = '$' + strName + ': ' + strRgb + ';' + "\n";
+            strVariable = '$' + 'color-' + strName + ': ' + strRgb + ';' + "\n";
         strVariables.push(strVariable);
     }
 
