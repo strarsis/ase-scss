@@ -7,7 +7,7 @@
   "author": "strarsis <strarsis@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ase-util": "^1.0.1",
+    "ase-util": "^1.0.2",
     "bluebird": "^3.5.2",
     "color": "^3.0.0"
   }
